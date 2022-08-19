@@ -1,0 +1,23 @@
+# temporary files
+*.pyc
+
+# vscode
+*.code-*
+
+# Enviornment variables
+system/.env
+
+# Enviornment directory
+.venv/*
+
+
+# Migrations
+system/apps/**/migrations/*
+!system/apps/**/migrations/__init__.py
+
+# Media and Static Files
+system/media/*
+system/staticfiles/*
+
+# Database Local
+system/config/db.sqlite3
