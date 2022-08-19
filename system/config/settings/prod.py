@@ -5,7 +5,7 @@ from . import db
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["www.jc-django.tk", "jc-django.tk"]
+ALLOWED_HOSTS = ["www.jc-django.tk", "jc-django.tk", "129.151.110.171"]
 
 
 # Database
