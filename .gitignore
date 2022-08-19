@@ -21,3 +21,8 @@ system/staticfiles/*
 
 # Database Local
 system/config/db.sqlite3
+
+# Folder Gunicorn Nginx
+bin/*
+logs/*
+run/*
