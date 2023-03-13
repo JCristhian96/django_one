@@ -5,7 +5,6 @@
 *.code-*
 
 # Enviornment variables
-system/.env
 
 # Enviornment directory
 .venv/*
